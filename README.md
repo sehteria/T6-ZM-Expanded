@@ -28,4 +28,4 @@ Tranzit (including survival maps), Nuketown zombies, Die Rise, Mob of the Dead a
 
 
 ### Feedback
-If you have any feedback or suggestions, you can comment on the [Plutonium forum](https://forum.plutonium.pw/user/sehteria) topic of my mod
+If you have any feedback or suggestions, you can comment on the [Plutonium forum](https://forum.plutonium.pw/topic/42656/release-zm-mod-zm_expanded-combining-zm_weapons-zm_perks-into-1-mod) topic of my mod
