@@ -1,4 +1,4 @@
-# Call of Duty: Black Ops 2 - zm_extended
+# Call of Duty: Black Ops 2 - zm_expanded
 ### Created by sehteria
 
 [Discord](https://discord.gg/7m4GtpEu9m)
